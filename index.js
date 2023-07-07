@@ -41,5 +41,5 @@ client.on('message', (topic, message) => {
 });
 
 app.listen(3000, () => {
-    console.log('Port:3000');
+    console.log('Port:8080');
 });
