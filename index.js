@@ -40,6 +40,6 @@ client.on('message', (topic, message) => {
     });
 });
 
-app.listen(3000, () => {
+app.listen(8080, () => {
     console.log('Port:8080');
 });
